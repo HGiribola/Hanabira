@@ -29,6 +29,23 @@
     margin-top: 0px;
 }
 
+.search-bar{
+
+}
+
+.search-input{
+    
+}
+
 footer p {
     color: white;
+}
+
+footer {
+    margin-top: 50px;
+    margin-left: 0px;
+    margin-right: 0px;
+    background-color: black;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
